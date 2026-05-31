@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderearse",
+        "uuid": 13655092,
+        "checksum": "i5kn52"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
